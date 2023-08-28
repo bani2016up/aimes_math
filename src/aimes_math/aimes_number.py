@@ -1,4 +1,4 @@
-from utils.object.aimes_table import AIMESTable
+from .aimes_table import AIMESTable
 
 
 class AIMESNumber(float):

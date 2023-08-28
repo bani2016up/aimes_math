@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: aimes-math
-Version: 0.0.1
+Version: 0.0.2
 Summary: Package contains methods for operating formula nodes via AIMES_table and AIMES_number, this package is only for using it via AIMES.
 Home-page: https://github.com/bani2016up/aimes_math
 Author: Daniil Parfenov
